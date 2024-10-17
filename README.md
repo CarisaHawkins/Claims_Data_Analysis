@@ -51,6 +51,15 @@ visualization: Region
 
 ![image](https://github.com/user-attachments/assets/b313bb79-9d62-4b04-abfc-2d27fc63c35a)
 
+visualization: BMI by Charge
+
+![image](https://github.com/user-attachments/assets/8cd2766d-78c4-4cca-9d69-317fcfba2b53)
+
+visualization: BMI by Charge with trend line
+
+![image](https://github.com/user-attachments/assets/f3efeba4-046e-4b7b-9f95-531ae75c45d8)
+
+
 
 
 
