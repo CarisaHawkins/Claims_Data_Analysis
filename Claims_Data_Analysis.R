@@ -10,7 +10,7 @@ claims_data <- read.csv("C:/Users/caris/OneDrive/Desktop/Data_Science_Projects/M
 #Reviewing some of the data; to see the structure
 head(claims_data)
 
-## Initial Eploration
+## Initial Exploration
 
 summary(claims_data)
 
