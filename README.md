@@ -34,4 +34,24 @@ Smokers have notably higher average claim charges than non-smokers.
 There is a positive correlation between BMI and charges, indicating that individuals with higher BMI tend to incur higher medical costs.
 The Southeast region has the highest average charges among the four regions.
 Conclusion:
-This analysis provides insights into factors that may influence health insurance costs, such as smoking and BMI. The findings can help health insurers understand potential risk factors and assist in pricing or risk assessment.
+This analysis provides insights into factors that may influence health insurance costs, such as smoking and BMI. The findings can help health insurers understand
+
+potential risk factors and assist in pricing or risk assessment.
+
+Visualizations:
+
+visualization: Smoker
+![image](https://github.com/user-attachments/assets/52acce60-15b8-4493-b6d5-7657f8d8522d)
+
+visualization: Sex
+
+![image](https://github.com/user-attachments/assets/055a04b1-4caa-487d-a2c4-1fd4c0e05f1c)
+
+visualization: Region
+
+![image](https://github.com/user-attachments/assets/b313bb79-9d62-4b04-abfc-2d27fc63c35a)
+
+
+
+
+
