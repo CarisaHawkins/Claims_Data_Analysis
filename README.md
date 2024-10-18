@@ -1,5 +1,5 @@
 Project Overview
-This project is a beginner-friendly analysis of health insurance claims data using R. The goal is to explore the data to identify key patterns in claim costs based on factors such as smoking status, sex, region, and BMI. The analysis also investigates the relationship between BMI and claim charges to understand potential cost drivers in health insurance.
+This project is an analysis of health insurance claims data using R. The goal is to explore the data to identify key patterns in claim costs based on factors such as smoking status, sex, region, and BMI. The analysis also investigates the relationship between BMI and claim charges to understand potential cost drivers in health insurance.
 
 Dataset
 The data used in this project is based on the "Medical Cost Personal Dataset" available on Kaggle.
